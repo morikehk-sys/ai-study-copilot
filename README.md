@@ -1,2 +1,2 @@
-# ai-study-copilot
+# ai study copilot
 AI-powered study platform that converts uploaded notes into quizzes, flashcards, and summaries using Python and Streamlit.
